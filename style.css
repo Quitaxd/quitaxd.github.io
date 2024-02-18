@@ -1,6 +1,8 @@
 body {
     background-color: #2E3440;
     color: white;
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+    font-family: 'Poppins', sans-serif;
 }
 
 a {
